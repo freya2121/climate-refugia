@@ -9,10 +9,6 @@
 ### Working directory and load packages
 ################################################################################
 
-#setwd("R:/rsrch/cb751/lab") 
-#setwd("/tmp/.x2go-frr512/media/disk/_Volumes_Biology_rsrch_cb751_lab")
-setwd("/Volumes/Biology/rsrch/cb751/lab")
-
 # load packages
 library(terra)
 library(maps)

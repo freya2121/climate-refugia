@@ -7,9 +7,6 @@
 ################################################################################
 ### set working directory and load packages
 ################################################################################
-#setwd("R:/rsrch/cb751/lab/Freya") 
-#setwd("/tmp/.x2go-frr512/media/disk/_Volumes_Biology_rsrch_cb751_lab/Freya")
-setwd("/Volumes/Biology/rsrch/cb751/lab/Freya")
 
 library(terra)
 library(ggplot2)
