@@ -3,4 +3,8 @@ This repository contains the code used in the study "Climate Refugia for Britain
 
 ### Data Availability
 Due to confidentiality, the plant distributions data has not been included. Access to this data can be requested from the Botanical Society of Britain and Ireland. 
+<<<<<<< HEAD
 The data for the UKCEH Land Cover Map for 2021 has not been included due to its large file size. This can be accessed from the [UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/data/ukceh-land-cover-maps).
+=======
+The data for the UKCEH Land Cover Map has not been included due to its large file size. This can be accessed from the [UK Centre for Ecology & Hydrology](https://www.ceh.ac.uk/data/ukceh-land-cover-maps)
+>>>>>>> c794884697de8f2b76c3a57ace2201a883ffa132
